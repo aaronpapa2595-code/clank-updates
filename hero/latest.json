@@ -1,0 +1,14 @@
+{
+ "blob": "1791080433-e39a8c7.bin",
+ "blob_sha256": "2bae57d7f3a54e1a7567b76eca55b311e10dc252b9736ffe9e9801609c0acf7d",
+ "blob_size": 1314703,
+ "channel": "hero",
+ "commit": "e39a8c7e42bffeb069c95e047de4cb1efceb4108",
+ "created": "2026-10-04T02:20:34+00:00",
+ "family": "clank",
+ "files": 627,
+ "format": 1,
+ "key_id": "45de5b144e2abeed",
+ "notes": "",
+ "seq": 1791080433
+}
